@@ -4,7 +4,7 @@
   <title><![CDATA[坐井观天]]></title>
   <link href="http://edwinmin.github.io/atom.xml" rel="self"/>
   <link href="http://edwinmin.github.io/"/>
-  <updated>2014-04-01T00:11:10+08:00</updated>
+  <updated>2014-04-01T00:22:44+08:00</updated>
   <id>http://edwinmin.github.io/</id>
   <author>
     <name><![CDATA[Edwin]]></name>
@@ -25,6 +25,9 @@
 <p>octopress: 简化blog的生成，发布markdown格式文件到edwinmin.github.io项目的master上，使程序员能专注于记录</p>
 
 <p>markdown: 文本标记语言，比html更简洁</p>
+
+<!--more-->
+
 
 <h3>环境搭建</h3>
 
