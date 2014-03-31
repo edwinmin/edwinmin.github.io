@@ -13,6 +13,8 @@ octopress: 简化blog的生成，发布markdown格式文件到edwinmin.github.io
 
 markdown: 文本标记语言，比html更简洁
 
+<!--more-->
+
 ###环境搭建
 
 [环境搭建详细文档](http://chensy0203.github.io/posts/hello-octopress.html)
