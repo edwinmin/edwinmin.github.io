@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[坐井观天]]></title>
+  <link href="http://edwinmin.github.io/atom.xml" rel="self"/>
+  <link href="http://edwinmin.github.io/"/>
+  <updated>2014-04-01T00:11:10+08:00</updated>
+  <id>http://edwinmin.github.io/</id>
+  <author>
+    <name><![CDATA[Edwin]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[搭建gitpages+octopress+markdown]]></title>
+    <link href="http://edwinmin.github.io/blog/2014/03/31/da-jian-gitpages-plus-octopress-plus-markdown/"/>
+    <updated>2014-03-31T22:12:50+08:00</updated>
+    <id>http://edwinmin.github.io/blog/2014/03/31/da-jian-gitpages-plus-octopress-plus-markdown</id>
+    <content type="html"><![CDATA[<h3>名词解释</h3>
+
+<p>gitpages: github上的个人主页，除了个人主页外还有项目主页，在每个项目的gh-pages分之上，github默认会发布该分之</p>
+
+<p>octopress: 简化blog的生成，发布markdown格式文件到edwinmin.github.io项目的master上，使程序员能专注于记录</p>
+
+<p>markdown: 文本标记语言，比html更简洁</p>
+
+<h3>环境搭建</h3>
+
+<p><a href="http://chensy0203.github.io/posts/hello-octopress.html">环境搭建详细文档</a></p>
+
+<h3>遇到问题</h3>
+
+<h4>bundle install安装错误</h4>
+
+<p>安装过程如果出现错误，需要重新安装ruby,且需要用rvm安装最新版本</p>
+
+<pre>
+# 安装rvm
+curl -L https://get.rvm.io | bash -s stable
+source ~/.rvm/scripts/rvm
+# 安装ruby最新版本
+rvm install ruby --head
+</pre>
+
+
+<h4>rake deploy时无法push到master分支</h4>
+
+<pre>
+直接复制edwinmin.github.io项目的.git目录到/octopress/_deploy/下覆盖更新.git文件
+</pre>
+
+]]></content>
+  </entry>
+  
+</feed>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
+    <url>
+        <loc>
+            http://edwinmin.github.io/blog/2014/03/31/da-jian-gitpages-plus-octopress-plus-markdown/
+        </loc>
+        <lastmod>2014-03-31T23:42:26+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://edwinmin.github.io/blog/archives/</loc>
+        <lastmod>2014-03-31T23:42:26+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://edwinmin.github.io/</loc>
+        <lastmod>2014-03-31T23:42:26+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://edwinmin.github.io/robots.txt</loc>
+        <lastmod>2014-03-31T23:42:26+08:00</lastmod>
+    </url>
+</urlset>
