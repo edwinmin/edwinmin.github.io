@@ -1,4 +1,0 @@
-User-agent: *
-Disallow: 
-
-Sitemap: http://superbaboon.github.io/sitemap.xml 
