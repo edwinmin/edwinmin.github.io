@@ -4,7 +4,7 @@
   <title><![CDATA[坐井观天]]></title>
   <link href="http://edwinmin.github.io/atom.xml" rel="self"/>
   <link href="http://edwinmin.github.io/"/>
-  <updated>2014-04-01T00:22:44+08:00</updated>
+  <updated>2014-04-04T11:15:21+08:00</updated>
   <id>http://edwinmin.github.io/</id>
   <author>
     <name><![CDATA[Edwin]]></name>
@@ -12,6 +12,20 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[同步、异步、阻塞、非阻塞]]></title>
+    <link href="http://edwinmin.github.io/blog/2014/04/04/tong-bu-%2C-yi-bu-%2C-zu-sai-%2C-fei-zu-sai/"/>
+    <updated>2014-04-04T10:08:50+08:00</updated>
+    <id>http://edwinmin.github.io/blog/2014/04/04/tong-bu-,-yi-bu-,-zu-sai-,-fei-zu-sai</id>
+    <content type="html"><![CDATA[<h4>名词解释</h4>
+
+<p>同步和异步：同步和异步关注的是消息通信机制(syn communication/async communication),也就是程序等待消息时的状态。同步的情况下，是由处理消息者自己去等待消息是否被触发，而异步情况下是由触发机制(一般通过注册回调函数，当消息返回时调用回调函数)来通知处理消息者。</p>
+
+<!--more-->
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[搭建gitpages+octopress+markdown]]></title>
